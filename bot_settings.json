@@ -1,0 +1,23 @@
+{
+    "channels": {
+        "requests": 1414251804866252901,
+        "logs": 1420034891462217799,
+        "status": 1420063742485336147,
+        "recruitment_requests": 1420033924247191604,
+        "dismissal_requests": 1420034920125825044
+    },
+    "roles": {
+        "recruitment": null,
+        "hr_management": null,
+        "dismissal": null
+    },
+    "admins": [
+        297265099444322315
+    ],
+    "moderators": [],
+    "google_sheets": {
+        "spreadsheet_id": "1l8y96cA4Dr23kYFycVGnZ0iohPCk2aEuAtBT8dYrMG8",
+        "worksheet_name": "Кадровый аудит УВД",
+        "enabled": true
+    }
+}
